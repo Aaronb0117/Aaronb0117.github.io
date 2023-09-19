@@ -1,0 +1,32 @@
+
+body {
+
+    text-align: center;
+    
+    }
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 380px;
+    margin-left: 380px;
+    text-align: justify;
+    }
+img {
+    width: 35%;
+    height: auto;
+    }
+.span1{
+    text-decoration: underline;
+}
+.span2{
+    background-color: orange;    
+}
+.span3{
+    color : red;
+}
+.span4{
+    text-align: left;
+}
+a{
+    float: left;
+}
